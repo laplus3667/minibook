@@ -1,4 +1,4 @@
-# minibook
+# Mini Book
 Keep my mini book draft 
 
 ## Scope
@@ -14,4 +14,4 @@ Visualizing daily effort makes me feel powerful!
 ## External link
 
 - [Non-Asymptotic LIL for M-estimator](https://github.com/laplus3667/minibook/blob/main/Paper%20/Non-Asymptotic%20M%20Estimator/NonAsympLILMestimator.pdf) 
-- [LSE](https://github.com/laplus3667/minibook/blob/main/LSE/LSE.md)
+- [LSE](https://github.com/laplus3667/minibook/blob/main/docs/LSE.md)
