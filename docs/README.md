@@ -1,4 +1,4 @@
-# Mini Book
+# minibook
 Keep my mini book draft 
 
 ## Scope
